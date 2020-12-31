@@ -1,1 +1,3 @@
-# API para gerenciamento de pssoas com Spring Java
+# API para gerenciamento de pessoas com Spring Java
+
+### CRUD básico construído em Java com framework Spring
